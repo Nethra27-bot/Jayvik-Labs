@@ -1,4 +1,4 @@
-# Jayvik-Labs
+# Jayvik-Labs Day 2
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4c0cae4b-cb36-4724-80ba-c3fb2392d178" />
 
 # 🌐 Computer Networking Basics
