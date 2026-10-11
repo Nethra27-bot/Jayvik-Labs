@@ -69,3 +69,14 @@ These notes are for educational purposes only. Any scanning or security testing 
 
 **Learning cybersecurity one concept at a time!** 🔐
 
+1) ipconfig - Window
+    <img width="996" height="719" alt="window screen" src="https://github.com/user-attachments/assets/e6443cc5-fd04-491c-8cb7-15d63bf7bda0" />
+
+2) ping google.com
+   <img width="853" height="598" alt="Window screen 1" src="https://github.com/user-attachments/assets/2ec46639-19a1-494e-bcde-35eb63183654" />
+
+3) tracert google.com
+   <img width="909" height="472" alt="Window screen 2" src="https://github.com/user-attachments/assets/535009e3-d84a-44c3-823e-94bb35acc739" />
+
+
+
